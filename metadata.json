@@ -1,0 +1,6 @@
+{
+  "name": "HOME X - Real Estate Marketplace",
+  "description": "Buy, sell, rent, and discover verified homes, apartments, villas, and commercial properties across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
